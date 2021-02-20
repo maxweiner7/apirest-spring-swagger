@@ -1,5 +1,5 @@
 
-# Spring Boot RestApi  - Swagger - Postgresql e  #
+# Spring Boot RestApi  - Swagger - Postgresql #
 
 API REST utilizando Spring Boot, JPA hibernate, Swagger, Postgresql e Heroku. 
 
