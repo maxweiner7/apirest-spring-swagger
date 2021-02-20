@@ -19,6 +19,8 @@ PUT |    /api/produto/        | Atualiza usuario
 
 &nbsp;
 
+https://apirest-produtosmax.herokuapp.com/swagger-ui.html#
+
 ![image](https://user-images.githubusercontent.com/35000699/108603020-4df69f00-739d-11eb-9d64-ef43b02cae8e.png)
 
 
